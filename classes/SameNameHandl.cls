@@ -1,7 +1,11 @@
 public class SameNameHandl{
     public static void Demomethod(List<Account>newList)
     {
+
+        
         Set<Id>AccountIds = new Set<Id>();
+
+        
         Map<String, Account>MapData = new Map<String, Account>();
         if(!newList.isEmpty())
         {
